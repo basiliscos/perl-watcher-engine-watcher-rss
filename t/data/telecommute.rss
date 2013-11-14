@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:perljobs="http://jobs.perl.org/rss/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://jobs.perl.org/">
+<title>Perl Jobs</title>
+<link>http://jobs.perl.org/</link>
+<description>The Perl Job Site</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 2001-2011, Develooper LLC</dc:rights>
+<dc:date>2013-11-14</dc:date>
+<dc:publisher>ask@perl.org</dc:publisher>
+<dc:creator>ask@perl.org</dc:creator>
+<dc:subject>Perl Jobs</dc:subject>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://jobs.perl.org/job/16937" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/18032" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/18014" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/18026" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/18020" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/18010" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/17996" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/17059" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/17980" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/17976" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/17972" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/17771" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/17249" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/15574" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/17791" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/17501" />
+  <rdf:li rdf:resource="http://jobs.perl.org/job/17928" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://jobs.perl.org/job/16937">
+<title>Senior Perl Engineer, Los Angeles, CA, United States (Rent.com)</title>
+<link>http://jobs.perl.org/job/16937</link>
+<description>Rent.com is the leading online apartment rental listing service nationwide. We are headquartered in a beautiful Santa Monica class A office complex, not far from the sunny Southern California beaches. We have over 300 days of sunshine within a region that encompasses ocean beaches, deserts and mountains. With just over 100 employees we are light on bureaucracy and operate nimbly. &#x3C;br&#x3E;&#x3C;br/&#x3E;As a senior software engineer at Rent.com, you will write server-side code for web-based applications. We are looking for well-rounded engineers to create robust high-volume production applications. You should also have a strong understanding of, and practical experience developing, web apps in Perl. We are looking for someone who is interested in making a big impact as part of a small, dynamic team and is looking to have broad responsibilities. &#x3C;br&#x3E;&#x3C;br/&#x3E;Rent.com engineers relish the freedom to create the next generation of our offerings, in an environment designed to foster collaboration, creativity, health, and happiness. We are an agile shop utilizing scrum, story points, and encouraging (but not dictating) TDD. &#x3C;br&#x3E;&#x3C;br/&#x3E;We currently have two open contracting positions. We will consider full-time telecommuting contractors, but the bar is correspondingly higher. We can only consider US residents at this time.</description>
+<dc:date>2013-11-13</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/18032">
+<title>Perl Developer - Telecommute, UK (Eligo Recruitment)</title>
+<link>http://jobs.perl.org/job/18032</link>
+<description>A well respected and leading Perl house are looking for a Perl developer to join there rapidly expanding Perl Development team. All Perl developers are telecommute and are based across the whole of the UK.  &#x3C;br&#x3E;&#x3C;br/&#x3E;The primary objective of this role is to work with the team in continually updating and reshaping the legacy code keeping this eCommerce site ahead of the game. Alongside this there will be from time to time the opportunity to work on a greenfield projects where you can really put your own stamp on it. &#x3C;br&#x3E;&#x3C;br/&#x3E;All members of the team contribute to CPAN or have a update Github account. As they are constantly updated their code you will need strong experience with Modern Perl and a web framework like Catalyst or Dancer. A good understanding of Linux is also essential. &#x3C;br&#x3E;&#x3C;br/&#x3E;If you like what you have read above and you like the sound of working with Perl from the comfort of your own home then this is the role for you.</description>
+<dc:date>2013-11-06</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/18014">
+<title>Perl Developer with Mongo DB, UK (Ascent Sourcing)</title>
+<link>http://jobs.perl.org/job/18014</link>
+<description>The company is a telecommunications company based near Leicester UK, which specialises in the direct interconnection of tier 1 carriers to international destinations. &#x3C;br&#x3E;&#x3C;br/&#x3E;The company is a back end infrastructure was built from the ground up using perl, and now needs someone with a more concrete experience in the language to add ad-hoc scripts to automate additional processes, currently done manually on the servers. As well as improve or re-write scripts already in place. &#x3C;br&#x3E;&#x3C;br/&#x3E;This scale of complexity will be within the reams of reading information from a database, reviewing information, and submitting the information to another database. It is essential you are comfortable with mongoDB, as this is the only database used. &#x3C;br&#x3E;&#x3C;br/&#x3E;This position is perfect for someone looking for extra work as we happy to be flexible with time spent &#x27;in the office&#x27; and location of work. We do ask that the person be within reasonable distance of Leicester, and that you treat the position professionally. You must allow us the opportunity to see you in person on an irregular and reasonable basis.</description>
+<dc:date>2013-11-05</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/18026">
+<title>Mid-Sr Level Perl Application Developer, Canada (Sitesell)</title>
+<link>http://jobs.perl.org/job/18026</link>
+<description>SiteSell is a world renowned web hosting platform that for 15 years has provided a package of education, software, and support that enables anyone to create Web sites as a small business. We&#x27;re building the platform to carry us and our customers into the future. &#x2028;&#x2028;&#x3C;br&#x3E;&#x3C;br/&#x3E;This is a 100% telecommute position for anyone that can work at least 4hr per day overlap with America/Montreal. Permanent Employee if you are in Canada and per diem contract otherwise.&#x3C;br&#x3E;&#x3C;br/&#x3E;&#x2028;Responsibilities: &#x2028;&#x2028; &#x3C;br&#x3E;&#x3C;br/&#x3E;  * Implement awesome Perl code for our products &#x2028; &#x3C;br&#x3E;
+  * Test the heck out of code with automated testing&#x3C;br&#x3E;
+  * Contribute to the design of new system components, rewrites of legacy systems, maintenance etc.&#x3C;br&#x3E;&#x3C;br/&#x3E;Why SiteSell: &#x3C;br&#x3E;&#x3C;br/&#x3E; * 100% telecommute - work from home or on the road&#x2028; &#x3C;br&#x3E;
+ * get a brand spanking new MacBook Pro when you sign on &#x2028; &#x3C;br&#x3E;
+ * interesting challenges each and every day&#x2028; &#x3C;br&#x3E;
+ * occasional travel to Montreal</description>
+<dc:date>2013-11-05</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/18020">
+<title>Perl Developer, Remote | South England (SquareOne Resources)</title>
+<link>http://jobs.perl.org/job/18020</link>
+<description>We are currently recruiting for a Modern OO Perl developer with considerable knowledge and experience with Moose/Catalyst, DBIx:Class, Subversion Control.&#x3C;br&#x3E;&#x3C;br/&#x3E;The successful candidate will be entitled to benefits of working remotely a majority of the time but onsite between once to twice a month (with expenses paid for travel and hotel accommodation if you are within the UK)</description>
+<dc:date>2013-11-04</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/18010">
+<title>Developer to assist with server automation in telecommunications environment, Leicester, UK (Jenero Ltd.)</title>
+<link>http://jobs.perl.org/job/18010</link>
+<description>Jenero Ltd. is a telecommunications company based in Leicester UK, which specialises in the direct interconnection of tier 1 carriers to international destinations.&#x3C;br&#x3E;&#x3C;br/&#x3E;Jenero Ltd&#x27;s back end infrastructure was built from the ground up using perl, and now needs someone with a more concrete experience in the language to add ad-hoc scripts to automate additional processes, currently done manually on the servers. As well as improve or re-write scripts already in place.&#x3C;br&#x3E;&#x3C;br/&#x3E;This scale of complexity will be within the reams of reading information from a database, reviewing information, and submitting the information to another database. It is essential you are comfortable with mongoDB, as this is the only database used.&#x3C;br&#x3E;&#x3C;br/&#x3E;This position is perfect for someone looking for extra work as we happy to be flexible with time spent &#x27;in the office&#x27; and location of work. We do ask that the person be within reasonable distance of Leicester, and that you treat the position professionally. You must allow us the opportunity to see you in person on an irregular and reasonable basis.</description>
+<dc:date>2013-11-04</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/17996">
+<title>Scraping SWF webpage, Melbourne, Australia</title>
+<link>http://jobs.perl.org/job/17996</link>
+<description>Hi All&#x3C;br&#x3E;&#x3C;br/&#x3E;I would like information to be scraped from an SWF website (from what I can tell...but I am no expert, hence the post) and the resulting tables out put to CSV. An example of the page can be found here:&#x3C;br&#x3E;
+&#x3C;a href=&#x22;https://www.tab.com.au/#!/nsw/racing/race-results-details/SEYMOUR/Races/1/31-Oct-2013&#x22; rel=&#x22;nofollow&#x22;&#x3E;www.tab.com.au/#!/nsw/racing/race-res...&#x3C;/a&#x3E;&#x3C;br&#x3E;&#x3C;br/&#x3E;From this page I would like tables which show the win and place Tote Odds for all the horses and the fixed odds just to the right of the tote odds, including:&#x3C;br&#x3E;
+-  No.&#x3C;br&#x3E;
+-  TAB Sportsbet No&#x3C;br&#x3E;
+-  Runner(barrier)&#x3C;br&#x3E;
+-  Jockey/Trainer/Driver&#x3C;br&#x3E;
+-  Win (Tote Odds)&#x3C;br&#x3E;
+-  Place (Tote Odds)&#x3C;br&#x3E;
+-  Win (Fixed Odds)&#x3C;br&#x3E;
+-  Place (Fixed Odds)&#x3C;br&#x3E;&#x3C;br/&#x3E;I would also like the pools information:&#x3C;br&#x3E;
+-  Win&#x3C;br&#x3E;
+-  Place&#x3C;br&#x3E;
+-  Trifecta&#x3C;br&#x3E;
+-  Quinella&#x3C;br&#x3E;
+-  Exacta&#x3C;br&#x3E;
+-  Duet&#x3C;br&#x3E;
+-  First 4&#x3C;br&#x3E;
+-  Running Double&#x3C;br&#x3E;&#x3C;br/&#x3E;This will form a larger part of the program where another webpage is scrapped...&#x3C;a href=&#x22;http://www.risa.com.au&#x22; rel=&#x22;nofollow&#x22;&#x3E;www.risa.com.au&#x3C;/a&#x3E; where I would like results and form scraped.  I already have some code to obtain this info provided by a kind person on PERL Monks. If you are interested in the whole job or just the SWF part please let me know.&#x3C;br&#x3E;&#x3C;br/&#x3E;Also please provide an estimate of the amount you would like to be paid to do the work. &#x3C;br&#x3E;&#x3C;br/&#x3E;I look forward to hearing from you.&#x3C;br&#x3E;&#x3C;br/&#x3E;Kind regards&#x3C;br&#x3E;&#x3C;br/&#x3E;Shaun</description>
+<dc:date>2013-10-31</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/17059">
+<title>Telecommuting Perl Software Developer- Anywhere in USA, Anywhere in USA (Grant Street Group, Inc.)</title>
+<link>http://jobs.perl.org/job/17059</link>
+<description>We are hiring telecommuting Perl Developers and Junior Developers too. We have been hiring great Perl developers for many years, and we are further expanding our distributed team of 30+ talented and friendly developers. Most of our developers telecommute; on-site positions are also available. &#x3C;br&#x3E;&#x3C;br/&#x3E;Grant Street Group is a small, growing software company in downtown Pittsburgh. We use open source software and modern Perl practices to build custom hosted web applications. We create web-based electronic payment systems, auctions, and tax collection systems for banks, financial companies, and state and local governments.&#x3C;br&#x3E;&#x3C;br/&#x3E;Grant Street Group offers competitive compensation and benefits:  &#x3C;br&#x3E;
+    *Health, vision, dental insurance&#x3C;br&#x3E;
+    *Short and long term disability&#x3C;br&#x3E;
+    *401k, 529 plans&#x3C;br&#x3E;
+    *Paid holidays and generous vacation&#x3C;br&#x3E;
+    *High-speed home internet connection subsidy</description>
+<dc:date>2013-10-30</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/17980">
+<title>Perl Web Developer, Palm Beach Gardens, FL (BeQuick Software, Inc.)</title>
+<link>http://jobs.perl.org/job/17980</link>
+<description>BeQuick Software, Inc., established in 2002, is a growing cellular and wireless broadband software company. BeQuick is seeking software &#x26; web developers to add to their development team in Palm Beach Gardens, FL.</description>
+<dc:date>2013-10-28</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/17976">
+<title>Trainee/Jr. Perl Developer/ Sr. Perl Developer/ Team Lead, Trivandrum, Bangalore (BrainToSoul Knowledge Consulting)</title>
+<link>http://jobs.perl.org/job/17976</link>
+<description>&#x22;BrainToSoul Knowledge Consulting&#x22; specializes in programming for the Web and we stick to the areas we excel at.	&#x3C;br&#x3E;
+BrainToSoul offer our customers to solve short-term/long-term needs and consulting engineers with specific domain expertise. &#x3C;br&#x3E;
+As a Perl consulting Company, we can cover areas such as implementation, system architecture, testing, specification and documentation depending on customer needs. &#x3C;br&#x3E;
+Our services focus on application oriented internet programming to cover the needs of even the most demanding customers, ranging from small businesses to corporate&#x3C;br&#x3E;
+organisations.&#x3C;br&#x3E;&#x3C;br/&#x3E;We are looking for couple of Perl Developers (with a ranging experience - Trainee/ Jr. Perl Developer/ Sr. Perl Developer/ Team Lead, hence salary range ) to&#x3C;br&#x3E;
+join our team to work on the development, maintenance and support the Perl Application.</description>
+<dc:date>2013-10-25</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/17972">
+<title>Perl Developer, Durham, NH (University of New Hampshire)</title>
+<link>http://jobs.perl.org/job/17972</link>
+<description>The University of New Hampshire Research Computing &#x26; Instrumentation Center is looking for a temporary hourly software developer with expertise in using Perl with CGI/mod_perl, DBI, SQL (preferably Oracle), HTML, CSS, and Javascript.  The work is full-time (40 hours per week).  The developer must have the flexibility to work on-site in Durham, NH for at least two months, after which flexible work arrangements may be available.  &#x3C;br&#x3E;&#x3C;br/&#x3E;If interested, please email resume and cover letter to jsorrell@sr.unh.edu.  Please include minimum hourly rate requirements.</description>
+<dc:date>2013-10-25</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/17771">
+<title>Telecommuting ETL Perl Developer, Pittsburgh, PA (Grant Street Group)</title>
+<link>http://jobs.perl.org/job/17771</link>
+<description>Grant Street Group is a Software as a Service pioneer, hosting in 1997 the world&#x27;s first online bond auction for the City of Pittsburgh, Pennsylvania. Since this first auction, over 3,800 clients have used our software to process financial transactions exceeding $12 trillion.&#x3C;br&#x3E;
+Today, Grant Street Group is a growing company providing Software as a Service in fields such as electronic payments, auctions, and tax collection. Our customers include banks, financial companies, and state and local governments.&#x3C;br&#x3E;&#x3C;br/&#x3E;Grant Street Group is seeking a Database Developer to work on:&#x3C;br&#x3E;&#x3C;br/&#x3E;&#x2022;	data collection from disparate data feeds and formats&#x3C;br&#x3E;
+&#x2022;	parsing and loading complex data into various databases&#x3C;br&#x3E;&#x3C;br/&#x3E;This will require strong programming skills, as well as strong database programming and administration skills.&#x3C;br&#x3E;
+Responsibilities will include programming, ETL of large data sets, data analysis and documentation.&#x3C;br&#x3E;&#x3C;br/&#x3E;We are interested in contract, contract-for-hire or permanent hires. On-site and telecommuting positions are available.</description>
+<dc:date>2013-10-25</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/17249">
+<title>Perl Programmer, Gatwick, UK (Thermeon)</title>
+<link>http://jobs.perl.org/job/17249</link>
+<description>Thermeon are looking for experienced programmers to join its UK development team. Applicants should be versatile and inquisitive by nature, able to adapt to new technologies, frameworks and languages. A personal interest in computing and programming should drive applicants to explore and innovate on their own. Thermeon provides services and software primarily to the car rental industry, and employees find interesting challenges that stimulate innovative solutions using the full range of technical resources available.&#x3C;br&#x3E;&#x3C;br/&#x3E;Telecommuting is available within the UK if candidates have a track record of successfully working remotely in the past,&#x3C;br&#x3E;
+have a suitable environment free from distractions, and are available to travel to the&#x3C;br&#x3E;
+Gatwick based UK office when necessary. Applicants must have the right to work in the UK.&#x3C;br&#x3E;&#x3C;br/&#x3E;Applicants should be fluent in the Linux environment with experience in&#x3C;br&#x3E;
+web services, web servers, databases and networking.&#x3C;br&#x3E;
+They must have strong history of planning and delivering projects from beginning to end.&#x3C;br&#x3E;&#x3C;br/&#x3E;An engaged approach to problem solving and a self-reliance are key&#x3C;br&#x3E;
+attributes for a candidate. Thermeon will continue to investigate and&#x3C;br&#x3E;
+adopt new technologies and employees should always enjoy learning to&#x3C;br&#x3E;
+apply new dynamic solutions to existing problems.</description>
+<dc:date>2013-10-23</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/15574">
+<title>Perl Developer - Freeside billing, Truckee, CA, United States (Telecommute - Social Security # or Tax ID) (Freeside Internet Services, Inc.)</title>
+<link>http://jobs.perl.org/job/15574</link>
+<description>.&#x3C;br&#x3E;
+Hi,&#x3C;br&#x3E;&#x3C;br/&#x3E;We&#x27;re Freeside Internet Services, a small software company.  We write and support an open-source billing and operations application for ISPs/WISPs and VoIP providers.&#x3C;br&#x3E;&#x3C;br/&#x3E;We&#x27;re looking for some additional developers to work on the application with us.  The work consists of designing and implementing new features both small and large, as well as maintaining the code, incremental refactoring, documentation and providing assistance to our support folks.&#x3C;br&#x3E;&#x3C;br/&#x3E;We&#x27;re a small, distributed company.  Our employees and contractors work remotely.  We&#x27;re looking for folks who are comfortable working independently, and who can be a responsible and communicative part of our team.&#x3C;br&#x3E;&#x3C;br/&#x3E;NOTE that although the position is telecommute, we are a small company and you need to be legal to work in the US (social security # or Tax ID/EIN).&#x3C;br&#x3E;&#x3C;br/&#x3E;In your response, please start a conversation about why you think this is a good fit for you, don&#x27;t just send a copy of your resume.  I&#x27;m also specifically looking for a CPAN ID, github URL or other code examples.  DO NOT APPLY WITHOUT INCLUDING THESE LINKS OR CODE EXAMPLES.&#x3C;br&#x3E;&#x3C;br/&#x3E;Ivan Kohler, President and Head Geek&#x3C;br&#x3E;
+.</description>
+<dc:date>2013-10-20</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/17791">
+<title>Senior Operations Developer (Internet Systems Consortium)</title>
+<link>http://jobs.perl.org/job/17791</link>
+<description>Internet Systems Consortium (ISC) develops commercial &#xAD;quality open&#xAD;source software for the Internet Community. ISC has a proud history in the development of the Internet, with many of the DNS and DHCP &#xAD;related standards in use today written by current or past employees. We are currently seeking highly qualified and motivated Senior Operations Developer.&#x3C;br&#x3E;&#x3C;br/&#x3E;ISC is looking for a self-driven, hands-on senior engineer with a blend of software development and operations skills. This role will initially focus on the development and maintenance of ISC&#x2019;s Secondary Name Service platform, but will more generally focus on the development of tools and systems to enhance and automate the ISC Operations environment. Beyond pure development, the engineer in this role will participate in the overall management, operation and growth of the ISC and world-wide F-Root network and systems infrastructure.&#x3C;br&#x3E;
+Duties will include:&#x3C;br&#x3E;&#x3C;br/&#x3E;    - Primary development and maintenance of the software driving ISC&#x2019;s Secondary Name Service platform&#x3C;br&#x3E;
+    - Design and development of systems automation, monitoring and optimization tools, as well as analysis of existing toolsets&#x3C;br&#x3E;
+    - Development of advanced tools for DNS monitoring and analysis&#x3C;br&#x3E;
+    - Participation in the day-to-day operation of the ISC Infrastructure&#x3C;br&#x3E;
+    -  Developing and maintaining documentation and reports&#x3C;br&#x3E;
+    - Participation in an on-call rotation for both ISC&#x2019;s customer support department as well as ISC&#x2019;s on-call 24 Hour NOC&#x3C;br&#x3E;
+    - Representing ISC at technical conferences and presenting, as appropriate&#x3C;br&#x3E;&#x3C;br/&#x3E;ISC is based in Redwood City, California, with much of the engineering staff distributed around the globe. We&#x2019;re interested in the best applicants, and are very open to remote employees. Candidates should be willing to travel periodically, both to the company headquarters as well as to various industry conferences, as needed.</description>
+<dc:date>2013-10-18</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/17501">
+<title>Perl Developer, Cape Town, South Africa (Busii)</title>
+<link>http://jobs.perl.org/job/17501</link>
+<description>Busii BI Integrators is a group of experienced practitioners with a professional yet pragmatic approach. We provide a full range of BI consulting and data warehouse implementation services and have some of SA&#x27;s largest corporates in our recent client portfolio. While our systems run in large corporate environments, we keep development teams small, with the emphasis on quality and responsiveness to business needs.&#x3C;br&#x3E;&#x3C;br/&#x3E;We need programmers to work on data integration, reporting and web applications that are being developed in Perl and SQL. Attention to detail and the ability to consistently produce high quality code is required.&#x3C;br&#x3E;&#x3C;br/&#x3E;In return we ensure that remuneration is above average and the necessary training and support is provided. Where offsite client work is feasible we have a flexible working environment with telecommuting when possible.&#x3C;br&#x3E;&#x3C;br/&#x3E;Occasional travel may be required.&#x3C;br&#x3E;&#x3C;br/&#x3E;This position is open to SA citizens, work permit holders or permanent residents only.&#x3C;br&#x3E;&#x3C;br/&#x3E;If you do not receive a response within 2 weeks, please consider your application unsuccessful.</description>
+<dc:date>2013-10-13</dc:date>
+</item>
+<item rdf:about="http://jobs.perl.org/job/17928">
+<title>Perl deveoper for Bitcoin project, Montevideo, Uruguay (BTC global)</title>
+<link>http://jobs.perl.org/job/17928</link>
+<description>Perl Programmer - We are looking for a Perl Ninja with preferably experience in MongoDB (also great would be Neo4j and Redis expertise - but focus is Perl) - to support our internal dev team working on our API.</description>
+<dc:date>2013-10-09</dc:date>
+</item>
+</rdf:RDF>

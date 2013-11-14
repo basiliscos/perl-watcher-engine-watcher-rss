@@ -10,5 +10,7 @@ dist.ini
 lib/App/PerlWatcher/Watcher/Rss.pm
 t/01-rss-opennet.t
 t/02-rss-perlpodscas-with-shelf.t
+t/10-rss2-telecomute.t
 t/data/opennet.ru.rss
 t/data/perlpodcast.ru.rss
+t/data/telecommute.rss
