@@ -22,6 +22,7 @@ my %WriteMakefileArgs = (
   "PREREQ_PM" => {
     "AnyEvent" => "7.04",
     "App::PerlWatcher::Engine" => "0.17",
+    "Data::Feed" => "0.00016",
     "HTTP::Date" => "6.02",
     "Moo" => "1.003000",
     "Smart::Comments" => "1.000004",
