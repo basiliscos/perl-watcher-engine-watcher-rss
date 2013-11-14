@@ -11,7 +11,7 @@ use Carp;
 use Smart::Comments -ENV;
 use HTTP::Date;
 use Moo;
-use XML::Simple;
+use Data::Feed;
 
 =head1 SYNOPSIS
 
@@ -68,16 +68,16 @@ sub description {
 sub process_http_response {
     my ($self, $content, $headers) = @_;
     # $content
-    my $xml = XMLin( $content );
-    my $items = $xml -> {channel} -> {item};
+    my $feed = Data::Feed->parse( \$content );
+    my $items = [ $feed->entries ];
     # $items
     my @top_items = splice @$items, 0, $self->items_number;
     my @news_items = map {
             my $item = App::PerlWatcher::EventItem->new(
-                content   => $_->{title},
-                timestamp => str2time( $_ -> {pubDate} ),
+                content   => $_->title,
+                timestamp => str2time( $_->issued ),
             );
-            my $url = $_->{link};
+            my $url = $_->link;
             Moo::Role->apply_roles_to_object($item, qw/App::PerlWatcher::Openable/);
             $item->url($url);
             $item;
