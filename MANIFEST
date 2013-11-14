@@ -1,0 +1,14 @@
+.travis.yml
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+README.md
+dist.ini
+lib/App/PerlWatcher/Watcher/Rss.pm
+t/01-rss-opennet.t
+t/02-rss-perlpodscas-with-shelf.t
+t/data/opennet.ru.rss
+t/data/perlpodcast.ru.rss

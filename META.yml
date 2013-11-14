@@ -1,0 +1,24 @@
+---
+abstract: 'RSS and ATOM feeds watcher'
+author:
+  - 'Ivan Baidakou <dmol@gmx.com>'
+build_requires:
+  Path::Class: 0.32
+  Test::More: 0.98
+configure_requires:
+  ExtUtils::MakeMaker: 6.72
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300036, CPAN::Meta::Converter version 2.131560'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: App-PerlWatcher-Watcher-Rss
+requires:
+  AnyEvent: 7.04
+  App::PerlWatcher::Engine: 0.17
+  Moo: 1.003000
+  Smart::Comments: 1.000004
+  aliased: 0.31
+  perl: 5.012
+version: 0.18
