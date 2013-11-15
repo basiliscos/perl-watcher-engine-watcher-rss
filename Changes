@@ -1,4 +1,4 @@
-0.18      2013-11-15 03:22:28 Europe/Minsk
+0.18      2013-11-15 03:25:17 Europe/Minsk
     Migrate from XML::Simple to Data::Feed (RSS 1, 2, Atom etc)
     Initial version, separated from App::PerlWatcher::Engine
 
