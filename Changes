@@ -1,3 +1,4 @@
 {{$NEXT}}
+    Migrate from XML::Simple to Data::Feed (RSS 1, 2, Atom etc)
     Initial version, separated from App::PerlWatcher::Engine
 
