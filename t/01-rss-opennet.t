@@ -92,7 +92,7 @@ my $callback_handler = sub {
     return $scenario->[$callback_invocations++]->{res}->(@_);
 };
 
-$server = AnyEvent::HTTPD->new;
+$server = AnyEvent::HTTPD->new(host => '127.0.0.1');
 $server->reg_cb (
     '/rss1' => sub {
         my ($httpd, $req) = @_;
